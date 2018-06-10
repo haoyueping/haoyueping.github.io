@@ -1,0 +1,23 @@
+---
+layout: about
+permalink: /
+title: <strong>Haoyue</strong> Ping
+description: Ph.D. candidate - <a target="_blank" href="https://drexel.edu/cci/">College of Computing & Informatics</a> - <a target="_blank" href="https://drexel.edu/">Drexel University</a>
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  address: >
+    <p>University Crossings 147</p>
+    <p>3175 John F Kennedy Blvd</p>
+    <p>Philadelphia, PA 19104</p>
+
+news: true
+social: true
+---
+
+Haoyue Ping is a third year PhD candidate at Drexel University, and a member of <a href="https://www.cs.drexel.edu/dbgroup/">Database Group</a>, where he is very fortunate to be advised by <a href="https://www.cs.drexel.edu/~julia/">Dr. Julia Stoyanovich</a>. He is broadly interested in data management, data analysis, differential privacy, data ethics.
+
+Right now he is working on two exciting projects. One of them is <a href="http://db4pref.com/">DB4Pref</a>, which aims to streamline the management and analysis of preference data. He is working on new techniques to efficiently model pairwise preference data and perform preference inference over Mallows models.
+
+The other project is <a href="https://github.com/DataResponsibly/DataSynthesizer">DataSynthesizer</a>. He is developing a user-friendly tool generating privacy-preserving datasets from a sensitive dataset. For example, a hospital wants to collaborate with data scientists, but cannot share its patient data until they have formal data sharing agreement, which typically takes 18 month! This tool applies differential privacy to offer strong privacy guarantees in order to boost these collaborations.
