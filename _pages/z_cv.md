@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: cv
-description: <a target="_blank" href="https://www.cs.drexel.edu/~hp354/docs/HaoyuePing_CV.pdf">Download Full Curriculum Vitae (PDF)</a>
+description: <a target="_blank" href="/assets/doc/HaoyuePing_CV.pdf">Download Full Curriculum Vitae (PDF)</a>
 ---
 
 #### Research Interests
