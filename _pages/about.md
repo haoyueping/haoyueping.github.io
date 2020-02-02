@@ -6,11 +6,10 @@ description: Ph.D. candidate - <a target="_blank" href="https://engineering.nyu.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.png
   address: >
-    <p>University Crossings 147</p>
-    <p>3175 John F Kennedy Blvd</p>
-    <p>Philadelphia, PA 19104</p>
+    <p>370 Jay St</p>
+    <p>Brooklyn, NY 11201</p>
 
 news: true
 social: true
